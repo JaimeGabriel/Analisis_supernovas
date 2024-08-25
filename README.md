@@ -4,4 +4,4 @@ Programa para el análisis de datos de distancia de luminosdiad o módulo de dis
 
 Repositorio de los archivos empleados y creados durante mi trabajo de fin de grado. 
 
-Toda la explicación está en dicho trabajo, que se incluirá aquí cuando sea posible -> [PONER ENLACE]
+Toda la explicación está en dicho trabajo, que se incluirá aquí cuando sea posible -> [https://drive.google.com/file/d/1vOmBxG3oWq8YqVn4R8EiQAsTofGOPIIE/view?usp=sharing]
